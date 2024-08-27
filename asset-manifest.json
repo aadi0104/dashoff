@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/dashoff/static/css/main.bdac3db3.css",
+    "main.js": "/dashoff/static/js/main.52f3c209.js",
+    "static/media/typingman.png": "/dashoff/static/media/typingman.010d95ed243ed72118cf.png",
+    "static/media/Loader.gif": "/dashoff/static/media/Loader.49bb5e83b4be75792bc5.gif",
+    "static/media/resultLoader.gif": "/dashoff/static/media/resultLoader.8b49ed81f7b3f1cbddee.gif",
+    "static/media/star.png": "/dashoff/static/media/star.993bff91eaed0216b837.png",
+    "static/media/Untitled-3.png": "/dashoff/static/media/Untitled-3.e609e9601a5b8fbb4c93.png",
+    "index.html": "/dashoff/index.html",
+    "main.bdac3db3.css.map": "/dashoff/static/css/main.bdac3db3.css.map",
+    "main.52f3c209.js.map": "/dashoff/static/js/main.52f3c209.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bdac3db3.css",
+    "static/js/main.52f3c209.js"
+  ]
+}
